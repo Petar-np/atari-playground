@@ -1,4 +1,4 @@
-# Atari playground
+# Atari playground 🕹️
 
 Playing with some MOS 6057 assembly code while trying to make games for the Atari 2600 😀
 
